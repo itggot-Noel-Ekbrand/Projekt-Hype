@@ -3,14 +3,15 @@ html, body {
 	padding: 0;
 }
 
-.container {	max-width: 1600px;
-				max-height: 900px;
+.container {	max-width: 1980px;
+				max-height: 1080px;
 				display:flex;
 				flex-direction: column;
 				background: url("../img/homepage.png") no-repeat center top;
-				justify-content: center;
+				justify-content: flex-end;
 				align-items: center;
 				height: 1080px;
+				
 
 	 }
 .AboutPage { 	background-color: lightblue;
@@ -50,7 +51,7 @@ img {
 } 
 
 
-.Bottom_Nav { 	background-color:black;
+.Bottom_Nav { 	background-color:#0ba29d;
 				display:flex;
 				flex-direction: row;
 				justify-content:center;
@@ -58,12 +59,11 @@ img {
 				max-height: 900px;
 				width: 100%;
 				height: 10%;
-				position: fixed;
 				bottom: 0;
 				left: 0;
 								}
 
-.Bottom_Nav2 { 	background-color:black;
+.Bottom_Nav2 { 	background-color:#0ba29d;
 				display:flex;
 				flex-direction: row;
 				justify-content: space-between;
@@ -75,25 +75,25 @@ img {
 				
 				}
 
-.home { color:lightblue;
+.home { color:white;
 		 font-size: 200%;
 		font-family: 'Open Sans Condensed', sans-serif;
 		 text-decoration:none;
 	 }
 
-.about { color:lightblue;
+.about { color:white;
 		 font-size: 200%;
 		 font-family: 'Open Sans Condensed', sans-serif;
 		 text-decoration:none;
 	 }
 
-.contact { 	color:lightblue;
+.contact { 	color:white;
 			font-size: 200%;
-		font-family: 'Open Sans Condensed', sans-serif;
+			font-family: 'Open Sans Condensed', sans-serif;
 			text-decoration:none;
 	 }
 
-.support  { color:lightblue;
+.support  { color:white;
 			font-size: 200%;
 			font-family: 'Open Sans Condensed', sans-serif;
 			text-decoration:none;
