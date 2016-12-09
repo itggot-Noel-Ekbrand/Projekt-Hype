@@ -25,6 +25,7 @@ html, body {
 				position: fixed;
 				bottom:0;
 				left: 0;
+
 								}
 
 .Bottom_Nav2 { 	background-color:black;
@@ -40,23 +41,27 @@ html, body {
 				}
 .home { color:lightblue;
 		 font-size: 200%;
-		 font-family: 'Josefin Sans', sans-serif;
+		 font-family: 'Open Sans Condensed', sans-serif;
+		 text-decoration:none;
 	 }
 
 
 
 .about { color:lightblue;
 		 font-size: 200%;
-		 font-family: 'Josefin Sans', sans-serif;
+		 font-family: 'Open Sans Condensed', sans-serif;
+		 text-decoration:none;
 	 }
 
 .contact { 	color:lightblue;
 			font-size: 200%;
-			font-family: 'Josefin Sans', sans-serif;
+			font-family: 'Open Sans Condensed', sans-serif;
+			text-decoration:none;
 	 }
 
 .support  { color:lightblue;
 			font-size: 200%;
-			font-family: 'Josefin Sans', sans-serif;	
+			font-family: 'Open Sans Condensed', sans-serif;
+			text-decoration:none;
 	 }
 
